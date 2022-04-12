@@ -11,4 +11,4 @@ My random forest machine learning analysis and model can be found here: (https:/
 
 Additional analyses (chi-squares, logistic regression models), can be found here: (https://github.com/KellyJoMc/Kelly-McKinney-Final-Project/blob/main/Chi-Squares.ipynb) and here: (https://github.com/KellyJoMc/Kelly-McKinney-Final-Project/blob/main/Logistic%20Regression.ipynb)
 
-
+Watch my presentation of my completed project here: https://vimeo.com/697208382
